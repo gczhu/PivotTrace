@@ -1,0 +1,22 @@
+# Runtime artifacts and downloaded checkpoints
+/checkpoints/
+/outputs/
+/results/
+/wandb/
+/configs/local.env
+*.log
+*.pkl
+*.pt
+*.pth
+*.safetensors
+
+# Allow project artifacts and model files
+!/artifacts/**
+!/models/**
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+.DS_Store

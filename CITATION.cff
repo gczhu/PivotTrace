@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use PivotTrace, please cite our paper."
+title: "PivotTrace: Smart Picks in the Dark"
+type: software
+license: Apache-2.0
+repository-code: "https://github.com/gczhu/PivotTrace"
+url: "https://arxiv.org/abs/2606.04503"
+authors:
+  - family-names: Zhu
+    given-names: Guangcheng
+  - family-names: Yang
+    given-names: Shenzhi
+  - family-names: Wang
+    given-names: Haobo
+  - family-names: Zheng
+    given-names: Xing
+  - family-names: Ma
+    given-names: Yingfan
+  - family-names: Feng
+    given-names: Xuening
+  - family-names: Chen
+    given-names: Zhongqi
+  - family-names: Song
+    given-names: Bowen
+  - family-names: Wang
+    given-names: Weiqiang
+  - family-names: Chen
+    given-names: Gang
+identifiers:
+  - type: doi
+    value: 10.48550/arXiv.2606.04503
